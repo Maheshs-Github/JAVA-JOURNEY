@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.base.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.controls.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.fxml.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.graphics.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.media.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.swing.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.web.jar",
+        "d:\\Apps\\JavaFX SDK\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx-swt.jar"
+    ]
+}

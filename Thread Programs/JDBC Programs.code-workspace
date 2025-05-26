@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../JDBC Programs"
+		},
+		{
+			"path": "../GUI Programs"
+		},
+		{
+			"path": "../../../java"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"d:\\programs\\Java Journey\\mysql-connector-j-8.3.0.jar"
+		]
+	}
+}
